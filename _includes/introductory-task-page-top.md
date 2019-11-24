@@ -13,7 +13,7 @@ If you complete the Part One successfully (deliverable quality and respect to de
 
 While completing Part One of the introductory task you are expected to meet the deadlines and to report your progress:
 
-- While implementing the introductory task you should send a simple 1-sentence daily report by email to introductory.tasks@tunnll.com: "Yesterday I implemented X and today I am working on Y.".
+- While implementing the introductory task you should send a simple 1-sentence daily report by email to info@skanatek.se: "Yesterday I implemented X and today I am working on Y.".
 - Any applications with missed daily email reports will not be processed.
 - You have 3 business days to complete Part One of the introductory task after you send your first email report.
 
@@ -24,7 +24,7 @@ While completing Part One of the introductory task you are expected to meet the 
 
 1. The working and communication language of this introductory task is English (including the interview), if not specified otherwise.
 
-2. The internship process is very well documented. Please, make sure that you have read this document thoroughly (including all the links, footnotes and references) before sending any questions to introductory.tasks@tunnll.com.
+2. The internship process is very well documented. Please, make sure that you have read this document thoroughly (including all the links, footnotes and references) before sending any questions to info@skanatek.se.
 
 3. When we talk about deadlines, a “week” means a calendar week, i.e. 7 calendar days.
 
@@ -39,14 +39,14 @@ While completing Part One of the introductory task you are expected to meet the 
   - Carefully re-read the task description, make sure you have understood the task correctly.
   - If the previous step does not help, copy the text you are not sure about (Error text for software engineers, definitions for all the others) and try to perform a problem research with Google/DuckDuckGo. 
   - If the previous step does not help, create a detailed question in regards to your problem and post it on a respective site of the StackExchange network (some useful sites are Software Engineering, Graphic Design, UX, Startups (business-related), English Language and Usage and Writers among others). Your question should contain links to resources that you have found during your problem research.
-  - If the previous step does not help, send your question to introductory.tasks@tunnll.com including the word “Question” in the subject. Your email should include a link to your question on the StackExchange network. Ambiguous questions like “It does not work” or “I do not know how to do that” will remain unanswered.
+  - If the previous step does not help, send your question to info@skanatek.se including the word “Question” in the subject. Your email should include a link to your question on the StackExchange network. Ambiguous questions like “It does not work” or “I do not know how to do that” will remain unanswered.
   
 ## How to actually apply for this position
 
 In order to apply for a position, please do the following:
 
 - Complete Part One of the introductory task.
-- Send an email to careers@tunnll.com:
+- Send an email to info@skanatek.se:
   - Subject: Applying for (Position title) - (Your full name)
   - Body:
     - Full name.

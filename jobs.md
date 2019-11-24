@@ -10,28 +10,28 @@ image:
   creditlink: http://eol.jsc.nasa.gov/scripts/sseop/photo.pl?mission=ISS015&roll=E&frame=7366
 ---
 
-**Come help us build things that matter**. Tunnll is a startup that [creates technologies](http://tunnll.com) for the future of the sustainable society, the technologies that make people's lives convenient, reduce carbon emissions and lead to efficient resource usage. We strive to combine the love to state-of-the-art technologies and a working environment that people are happy to work in.
+**Come help us build things that matter**. Skanatek is a startup that [creates technologies](http://tunnll.com) for the future of the sustainable society, the technologies that make people's lives convenient, reduce carbon emissions and lead to efficient resource usage. We strive to combine the love to state-of-the-art technologies and a working environment that people are happy to work in.
 
 * * *
 
-# Tunnll is a nice place to work at
+# Skanatek is a nice place to work at
 
 ## Your work matters
 
-We are a small startup company with a strong focus on the social impact of our projects. At Tunnll it's more than work, it's how you can help individuals and the society to solve their real life problems.
+We are a small startup company with a strong focus on the social impact of our projects. At Skanatek it's more than work, it's how you can help individuals and the society to solve their real life problems.
 
 
 ## Your own schedule
 
-Need to take kids out of daycare? Have studies in the morning? Or maybe language course each Thursday? It's fine. At Tunnll you are free to choose your own working hours.
+Need to take kids out of daycare? Have studies in the morning? Or maybe language course each Thursday? It's fine. At Skanatek you are free to choose your own working hours.
 
 ## Your own dress-code
 
-At Tunnll we do not have any [corporate](http://en.wikipedia.org/wiki/Office_Space) [religion](https://en.wikipedia.org/wiki/Cult), so you do not need to wear a suit every day. In fact, you can wear whatever you like.
+At Skanatek we do not have any [corporate](http://en.wikipedia.org/wiki/Office_Space) [religion](https://en.wikipedia.org/wiki/Cult), so you do not need to wear a suit every day. In fact, you can wear whatever you like.
 
 ## Your voice can be heard
 
-Have you ever dreamed of working without a [boss](http://en.wikipedia.org/wiki/Bill_Lumbergh)? At Tunnll we have a boss-free environment. Instead we practice a regular rotation of a role similar to that of a [SCRUM master](http://en.wikipedia.org/wiki/Scrum_(software_development)#Scrum_Master). This means that you can have a set of managerial activities for a week and then pass those to another team member. In other words, at Tunnll a team member manages the team today and tomorrow you can become that manager.
+Have you ever dreamed of working without a [boss](http://en.wikipedia.org/wiki/Bill_Lumbergh)? At Skanatek we have a boss-free environment. Instead we practice a regular rotation of a role similar to that of a [SCRUM master](http://en.wikipedia.org/wiki/Scrum_(software_development)#Scrum_Master). This means that you can have a set of managerial activities for a week and then pass those to another team member. In other words, at Skanatek a team member manages the team today and tomorrow you can become that manager.
 
 * * *
 
@@ -41,7 +41,7 @@ We extensively use our [task tracker][1] as the main [traceability vehicle](http
 
 We use Skype/SIP occasionally to hold team and personal meetings. We do not use email to discuss projects and tasks.
 
-The working language at Tunnll is English.
+The working language at Skanatek is English.
 
  [1]: http://redmine.org
 

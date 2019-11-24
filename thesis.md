@@ -1,7 +1,7 @@
 ---
 layout: front-page 
-title: Thesis at Tunnll 
-location: Thesis at Tunnll 
+title: Thesis at Skanatek 
+location: Thesis at Skanatek 
 description:  
 permalink: /thesis-opportunities-students/
 image:
@@ -12,7 +12,7 @@ image:
 
 ## We have a thesis research topic for you!
 
-Dear student, we are pleased to inform you that now you can write your thesis (Bachelor or Master) with Tunnll. We have a few research topics under development in connection with our [projects](http://tunnll.com), some of which are:
+Dear student, we are pleased to inform you that now you can write your thesis (Bachelor or Master) with us. We have a few research topics under development in connection with our [projects](http://tunnll.com), some of which are:
 
 ### Software Engineering
 
@@ -38,7 +38,7 @@ Dear student, we are pleased to inform you that now you can write your thesis (B
 
 ## How to apply
 
-Please, send an email to [thesis@tunnll.com](mailto:thesis@tunnll.com) with the following information:
+Please, send an email to [info@skanatek.se](mailto:info@skanatek.se) with the following information:
 
 *   Subject: Thesis - Name - University
 *   Name of your university
