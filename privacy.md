@@ -3,7 +3,7 @@ layout: front-page
 title: Privacy Policy - Tunnll
 description:  
 location: Privacy Policy
-permalink: /tunnll_privacy_policy/
+permalink: /privacy/
 image:
   feature: stars-background-03.jpg
   credit: NASA GSFC
