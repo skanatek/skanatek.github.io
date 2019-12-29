@@ -1,9 +1,9 @@
 ---
 layout: front-page 
-title: Contact 
+title: Privacy Policy - Tunnll
 description:  
-location: Contact
-permalink: /contact/
+location: Privacy Policy
+permalink: /tunnll-privacy-policy/
 image:
   feature: stars-background-03.jpg
   credit: NASA GSFC
