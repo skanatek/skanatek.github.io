@@ -3,9 +3,9 @@
 
 ### English language requirement
 
-Tunnll is a small, but international company. In order to communicate efficiently between team members who can be located in different countries, we need a shared communication channel. The same is true for our communications with partners and customers in various locations. 
+Skanatek is a small, but international company. In order to communicate efficiently between team members who can be located in different countries, we need a shared communication channel. The same is true for our communications with partners and customers in various locations. 
 
-The English requirement for this position is English 6 / English Course B / IELTS Academic 6.5 or higher / TOEFL iBT total score of 575. All applicants who wish to apply to a position at Tunnll must document that they have met the English requirements for the position. Even applicants with English as their first language must document that they meet the requirements for the position they have applied for. 
+The English requirement for this position is English 6 / English Course B / IELTS Academic 6.5 or higher / TOEFL iBT total score of 575. All applicants who wish to apply to a position at Skanatek must document that they have met the English requirements for the position. Even applicants with English as their first language must document that they meet the requirements for the position they have applied for. 
 
 
 ### Why this position is cool 
